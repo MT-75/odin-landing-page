@@ -4,7 +4,55 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Roboto';
+}
+
 img {
     width: 200px;
     height: 200px;
 }
+
+.header,
+.footer {
+    background-color: #1f2937;
+}
+
+.header .content h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.header .content p,
+.nav-bar .links {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.section-1 h2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.section-2{
+    background-color: #e5e7eb;
+}
+
+.section-2 .text {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.section-3 .container,
+.section-3 button {
+    background-color: #3882f6;
+}
+
