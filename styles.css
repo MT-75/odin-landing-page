@@ -141,3 +141,27 @@ button {
 .section-2 .signature {
     align-self: flex-end;
 }
+
+/* body - section 3  */
+
+.section-3 .container {
+    margin: 50px 100px;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-3 .text {
+    color: #e5e7eb;
+}
+
+.section-3 .text p:nth-of-type(1) {
+    font-weight: bold;
+}
+
+.section-3 button {
+    padding: 8px 24px;
+    border-radius: 10px;
+    border-color: #e5e7eb;
+}
