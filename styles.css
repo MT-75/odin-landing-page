@@ -127,3 +127,17 @@ button {
     align-items: center;
     gap: 20px;
 }
+
+/* Body - section 2 */
+
+.section-2 {
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-2 .signature {
+    align-self: flex-end;
+}
